@@ -15,8 +15,8 @@
 
 ## 2. Materiały:
 - Dokumentacja opisująca singleton w framework Symfony: [Link](https://symfony.com/doc/current/service_container/shared.html)
-- Dokumentacja biblioteki wykorzystanej do operacji na pliku arkuszu excel: [Link](https://phpspreadsheet.readthedocs.io/en/latest/)
-- Dokumentacja biblioteki użytej do stworzenia kolekcji obiektów i operacji na nich: [Link](https://www.doctrine-project.org/projects/doctrine-collections/en/1.6/index.html)
+- Dokumentacja pakiet wykorzystany do operacji na pliku arkuszu excel: [Link](https://phpspreadsheet.readthedocs.io/en/latest/)
+- Dokumentacja pakiet użyty do stworzenia kolekcji obiektów i operacji na nich: [Link](https://www.doctrine-project.org/projects/doctrine-collections/en/1.6/index.html)
 
 
 ## 4. Endpointy:
